@@ -1,2 +1,1 @@
-# My-repository
-My repository
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Web e grande interesse em me aprofundar em tecnologias como HTML, CSS e JavaScript. Gosto de aprender com calma, passo a passo, entendendo bem os conceitos antes de aplicar na prática — especialmente no Visual Studio Code.
